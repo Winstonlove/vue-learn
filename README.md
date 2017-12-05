@@ -1,6 +1,8 @@
 # vue-learn
 
 > A Vue.js project
+>未经本人允许，禁止修改上传代码
+>请勿上传大文件代码
 
 ## Build Setup
 
@@ -22,7 +24,3 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 ### wangyilei
-### wangerlei
-
-
-### wangsanlei
